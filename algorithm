@@ -1,0 +1,21 @@
+Algorithm 1: Method Overloading in Python
+Start.
+Create a class named Addition.
+Define a method add() with three parameters: a, b=0, and c=0.
+Calculate the sum of the given parameters and print the result.
+Create an object of the Addition class.
+Call add() with one argument: 10.
+Call add() with two arguments: 10, 20.
+Call add() with three arguments: 10, 20, 30.
+Stop
+
+Algorithm 2: Method Overriding in PythonStart.
+Create a parent class named Parent.
+Define a method show() in the parent class to print a parent class message.
+Create a child class named Child that inherits from Parent.
+Define a method show() in the child class with the same name as the parent method.
+Print a child class message inside the child method.
+Create an object of the Child class.
+Call the show() method using the child object.
+Display the child class message
+Stop.
